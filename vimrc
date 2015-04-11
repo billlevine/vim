@@ -1,6 +1,6 @@
 filetype plugin on
 syntax on
-colorscheme industry
+colorscheme ron
 set tabstop=3
 set clipboard=unnamedplus
 
